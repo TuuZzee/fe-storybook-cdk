@@ -1,0 +1,25 @@
+{
+  "name": "fe-storybook-cdk",
+  "version": "1.0.0",
+  "description": "React component library using Storybook for Awair FE projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getawair/fe-storybook-cdk.git"
+  },
+  "keywords": [
+    "Storybook",
+    "React",
+    "Components",
+    "library"
+  ],
+  "author": "Guillaume Becker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getawair/fe-storybook-cdk/issues"
+  },
+  "homepage": "https://github.com/getawair/fe-storybook-cdk#readme"
+}
