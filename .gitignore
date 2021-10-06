@@ -9,6 +9,9 @@
 .env
 .env.local
 
+### Lib folder for pkgs builds ###
+lib
+
 ### Firebase ###
 .idea
 **/node_modules/*
